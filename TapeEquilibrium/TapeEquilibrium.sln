@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium.Test", "TapeEquilibrium.Test\TapeEquilibrium.Test.csproj", "{B76A6EE0-00E7-49A2-9DAC-7271C9A53741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{96D69F61-04A0-4A82-B1A4-CD0CAA67F898}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{024CE5AC-A820-4952-AA40-FE8F0CD6F1F3}"
+	ProjectSection(SolutionItems) = preProject
+		Problem Statement.txt = Problem Statement.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76A6EE0-00E7-49A2-9DAC-7271C9A53741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76A6EE0-00E7-49A2-9DAC-7271C9A53741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76A6EE0-00E7-49A2-9DAC-7271C9A53741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76A6EE0-00E7-49A2-9DAC-7271C9A53741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D69F61-04A0-4A82-B1A4-CD0CAA67F898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D69F61-04A0-4A82-B1A4-CD0CAA67F898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D69F61-04A0-4A82-B1A4-CD0CAA67F898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D69F61-04A0-4A82-B1A4-CD0CAA67F898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
