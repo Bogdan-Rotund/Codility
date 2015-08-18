@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJmp", "FrogJmp\FrogJmp.csproj", "{402205C1-D865-44AE-AE20-7709E3DD012F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJmp.Test", "FrogJmp.Test\FrogJmp.Test.csproj", "{CA5B92BC-9F95-45BE-9D7C-3CE2FAFBB22A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9074FC2-8A8B-42C2-9ADC-125680552F10}"
+	ProjectSection(SolutionItems) = preProject
+		Problem Statement.txt = Problem Statement.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402205C1-D865-44AE-AE20-7709E3DD012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402205C1-D865-44AE-AE20-7709E3DD012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402205C1-D865-44AE-AE20-7709E3DD012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402205C1-D865-44AE-AE20-7709E3DD012F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5B92BC-9F95-45BE-9D7C-3CE2FAFBB22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5B92BC-9F95-45BE-9D7C-3CE2FAFBB22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5B92BC-9F95-45BE-9D7C-3CE2FAFBB22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5B92BC-9F95-45BE-9D7C-3CE2FAFBB22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
