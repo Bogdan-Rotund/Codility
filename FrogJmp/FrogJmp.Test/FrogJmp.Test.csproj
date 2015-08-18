@@ -53,6 +53,12 @@
     <Compile Include="FrogJmpTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FrogJmp\FrogJmp.csproj">
+      <Project>{402205c1-d865-44ae-ae20-7709e3dd012f}</Project>
+      <Name>FrogJmp</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

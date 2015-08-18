@@ -8,9 +8,9 @@ namespace FrogJmp
 {
     public class FrogJmp
     {
-        public int Solution(int X, int Y, int D)
+        public static int Solution(int X, int Y, int D)
         {
-            return 0;
+            return (int)Math.Ceiling(Y - X / (double)D);
         }
     }
 }
