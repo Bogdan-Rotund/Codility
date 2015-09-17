@@ -16,3 +16,7 @@ function solution(X, A) {
 
     return -1;
 }
+
+module.exports = {
+    solution: solution
+};
