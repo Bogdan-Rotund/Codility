@@ -1,0 +1,1 @@
+Solutions for Codility lesson problems. https://codility.com/programmers/lessons/
