@@ -1,6 +1,6 @@
-Solutions for Codility lesson problems. https://codility.com/programmers/lessons/
+Solutions for [Codility](https://codility.com/programmers/lessons/) lesson problems.
 
-|Problem	      | Status 		  |
-|------------- 	  | ------------- |
-|TapeEquilibrium  | [x]			  |	
-|FrogJmp  		  | [x] 		  |
+|Problem | Status |
+|------------- | ------------- |
+|TapeEquilibrium | [x] |	
+|FrogJmp | [x] |
