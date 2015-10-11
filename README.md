@@ -2,5 +2,5 @@ Solutions for [Codility](https://codility.com/programmers/lessons/) lesson probl
 
 |Problem | Status |
 |------------- | ------------- |
-|TapeEquilibrium | [x] |	
-|FrogJmp | [x] |
+|TapeEquilibrium | - [x] |	
+|FrogJmp | - [x] |
