@@ -12,13 +12,13 @@ Solutions for [Codility](https://codility.com/programmers/lessons/) lesson probl
 - [x] [MaxCounters](https://github.com/Bogdan-Rotund/Codility/blob/master/MaxCounters/app.js)
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
-- [ ] [CountDiv]()
+- [x] [CountDiv](https://github.com/Bogdan-Rotund/Codility/blob/master/CountDiv/app.js)
 - [x] [PassingCars](https://github.com/Bogdan-Rotund/Codility/blob/master/PassingCars/app.js)
-- [ ] [MinAvgTwoSlice]()
+- [x] [MinAvgTwoSlice](https://github.com/Bogdan-Rotund/Codility/blob/master/MinAvgTwoSlice/app.js)
 - [ ] [GenomicRangeQuery]()
 
-##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
-- [ ] [MaxProductOfThree]()
+##Lesson 4 [Sorting](https://codility.com/programmers/lessons/4)
+- [x] [MaxProductOfThree](https://github.com/Bogdan-Rotund/Codility/blob/master/MaxProductOfThree/app.js)
 - [ ] [Triangle]()
 - [ ] [Distinct]()
 - [ ] [NumberOfDiscIntersections]()
