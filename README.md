@@ -1,11 +1,11 @@
 Solutions for [Codility](https://codility.com/programmers/lessons/) lesson problems.
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/1)
-- [] [BinaryGap]()
+- [ ] [BinaryGap]()
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/2)
-- [] [CyclicRotations]()
-- [] [OddOccurrencesInArray]()
+- [ ] [CyclicRotations]()
+- [ ] [OddOccurrencesInArray]()
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/3)
 - [x] [TapeEquilibrium](https://github.com/Bogdan-Rotund/Codility/blob/master/TapeEquilibrium/TapeEquilibrium/TapeEquilibrium.cs)
