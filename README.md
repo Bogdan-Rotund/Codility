@@ -4,7 +4,7 @@ Solutions for [Codility](https://codility.com/programmers/lessons/) lesson probl
 - [x] [BinaryGap](https://github.com/Bogdan-Rotund/Codility/blob/master/1.%20Iterations/BinaryGap/app.js)
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/17)
-- [ ] [CyclicRotations]()
+- [x] [CyclicRotations](https://github.com/Bogdan-Rotund/Codility/blob/master/2.%20Arrays/CyclicRotations/app.js)
 - [ ] [OddOccurrencesInArray]()
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
