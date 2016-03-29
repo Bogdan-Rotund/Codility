@@ -1,7 +1,7 @@
 Solutions for [Codility](https://codility.com/programmers/lessons/) lesson problems.
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/1)
-- [ ] [BinaryGap]()
+- [x] [BinaryGap](https://github.com/Bogdan-Rotund/Codility/blob/master/1.%20Iterations/BinaryGap/app.js)
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/2)
 - [ ] [CyclicRotations]()
