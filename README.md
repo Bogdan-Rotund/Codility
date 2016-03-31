@@ -5,7 +5,7 @@ Solutions for [Codility](https://codility.com/programmers/lessons/) lesson probl
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/17)
 - [x] [CyclicRotations](https://github.com/Bogdan-Rotund/Codility/blob/master/2.%20Arrays/CyclicRotations/app.js)
-- [ ] [OddOccurrencesInArray]()
+- [x] [OddOccurrencesInArray](https://github.com/Bogdan-Rotund/Codility/blob/master/2.%20Arrays/OddOccurrencesInArray/app.js)
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/Bogdan-Rotund/Codility/blob/master/TapeEquilibrium/TapeEquilibrium/TapeEquilibrium.cs)
