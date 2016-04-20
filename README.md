@@ -32,7 +32,7 @@ Solutions for [Codility](https://codility.com/programmers/lessons/) lesson probl
 
 ##Lesson 7 [Stacks and Queues](https://codility.com/programmers/lessons/5)
 - [ ] [Brackets]()
-- [ ] [Nesting]()
+- [x] [Nesting](https://github.com/Bogdan-Rotund/Codility/blob/master/7.%20Stacks%20and%20Queues/Nesting/app.js)
 - [ ] [StoneWall]()
 - [ ] [Fish]()
 
